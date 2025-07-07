@@ -1,0 +1,13 @@
+streamlit
+beautifulsoup4
+requests
+sentence-transformers
+torch
+dotenv
+google.generativeai
+fastapi 
+uvicorn
+selenium
+langchain_community
+langchain_google_genai
+langgraph
